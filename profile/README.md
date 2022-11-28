@@ -6,4 +6,5 @@ Progetti all'attivo:
 Progetti futuri:
  - Rete P2P
  - Servizio di streaming
+ - "Analytics pollution"
  - ...
